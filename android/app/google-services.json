@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "701867410661",
+    "project_id": "rn-firebase-86567",
+    "storage_bucket": "rn-firebase-86567.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701867410661:android:55cc2108c3a65c7bef800c",
+        "android_client_info": {
+          "package_name": "Realtime.RN"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "701867410661-sr65le4l49feqk01itgrao0p9s2eo8pt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfavAg5ufcDhO5nOq-7Z-jg_SEkBZicyA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "701867410661-sr65le4l49feqk01itgrao0p9s2eo8pt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
